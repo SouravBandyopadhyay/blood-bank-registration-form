@@ -1,4 +1,4 @@
-# Blood Bank Registration Form
+# Blood Bank Registration Stepper Form
 
 This project is a multi-step registration form for a blood bank, implemented as a stepper form. The backend utilizes Prisma ORM for data handling with a PostgreSQL database, enabling efficient storage and management of registration details.
 
